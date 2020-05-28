@@ -1,0 +1,5 @@
+DT=100*sum(DTAc)/(50*894)
+KNN=100*sum(KNNc)/(50*894)
+LDA=100*sum(LDAAc)/(50*894)
+NB=100*sum(NBAc)/(50*894)
+SVM=100*sum(SVMAc)/(50*894)
